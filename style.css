@@ -1,0 +1,28 @@
+* {
+	/*border: 1px solid white;*/
+}
+
+body {
+	margin: 50px;
+	font-family: roboto, sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.button {
+	padding: 5px;
+	background-color: #DAF7A6;
+	border-radius: 10px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: white;
+	border-color: #541212;
+	color: #541212;
+}
+
+#buttonScore {
+	margin: 30px auto !important;
+}
